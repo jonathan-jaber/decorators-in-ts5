@@ -45,5 +45,6 @@
     "moduleDetection": "force",
     "skipLibCheck": true,
   },
-  "include": ["src"]
+  "include": ["src/**/*.ts"],
+  "exclude": ["src/basic-decorator.ts"]
 }
