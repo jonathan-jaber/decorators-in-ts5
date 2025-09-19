@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jonathan-jaber/decorators-in-ts5#readme",
   "devDependencies": {
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
   }
 }
